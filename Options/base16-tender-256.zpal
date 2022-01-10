@@ -1,0 +1,95 @@
+// Black
+0=40,40,40,Black
+
+// Red
+1=244,55,83,Red
+
+// Green
+2=201,208,92,Green
+
+// Yellow
+3=255,194,75,Yellow
+
+// Blue
+4=179,222,239,Blue
+
+// Magenta
+5=211,185,135,Magenta
+
+// Cyan
+6=115,206,244,Cyan
+
+// Gray
+7=238,238,238,White
+
+// Dark Gray
+8=76,76,76,Bright Black
+
+// Light Red
+9=244,55,83,Bright Red
+
+// Light Green
+10=201,208,92,Bright Green
+
+// Light Yellow
+11=255,194,75,Bright Yellow
+
+// Light Blue
+12=179,222,239,Bright Blue
+
+// Light Magenta
+13=211,185,135,Bright Magenta
+
+// Light Cyan
+14=115,206,244,Bright Cyan
+
+// White
+15=254,255,255,Bright White
+
+// Custom 1
+16=0,0,0,Custom 1
+
+// Custom 2
+17=0,0,0,Custom 2
+
+// Custom 3
+18=0,0,0,Custom 3
+
+// Custom 4
+19=0,0,0,Custom 4
+
+// Custom 5
+20=0,0,0,Custom 5
+
+// Custom 6
+21=0,0,0,Custom 6
+
+// Custom 7
+22=0,0,0,Custom 7
+
+// Custom 8
+23=0,0,0,Custom 8
+
+// Custom 9
+24=0,0,0,Custom 9
+
+// Custom 10
+25=0,0,0,Custom 10
+
+// Custom 11
+26=0,0,0,Custom 11
+
+// Custom 12
+27=0,0,0,Custom 12
+
+// Custom 13
+28=0,0,0,Custom 13
+
+// Custom 14
+29=0,0,0,Custom 14
+
+// Custom 15
+30=0,0,0,Custom 15
+
+// Custom 16
+31=0,0,0,Custom 16
